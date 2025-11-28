@@ -1,11 +1,10 @@
 ## 👋 Hi, I'm Faisal Rahman
 
-I'm a self-taught **Mobile Developer** from **Indonesia**, and I recently graduated with a **Bachelor’s degree in Informatics (2025)**.  
-I’m passionate about building clean, efficient, and user-focused mobile applications.  
+I'm a self taught **Mobile Developer** from **Indonesia**, and I recently graduated with a **Bachelor’s degree in Informatics (2025)**.  
+I’m passionate about building clean, efficient, and user focused mobile applications.  
 Currently growing my journey as an **entry-level / junior developer**, and continuously learning new tools and best practices to improve my craft.
 
 <br/>
-
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" />
   I'm Currently Learning:
