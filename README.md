@@ -13,6 +13,3 @@ I don't just build screens; I focus on software craftsmanship—implementing **C
 **🌱 What I'm Currently Exploring:**
 Deepening my knowledge in **Unit & Integration Testing** in Flutter, setting up CI/CD pipelines (like Shorebird for OTA updates), and continuously refining code testability and architecture.
 
-📫 **Let's Connect:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qyupaww/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qyupaww@gmail.com or faisalra639@gmail.com)
