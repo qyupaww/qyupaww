@@ -2,12 +2,17 @@
 
 I'm a **Mobile Software Engineer** based in Indonesia, holding a Bachelor's degree in Informatics (2025). I specialize in building scalable, high-performance, and beautifully designed cross-platform applications exclusively using **Flutter & Dart**.
 
-I don't just build screens; I focus on software craftsmanship—implementing **Clean Architecture**, robust state management, and production-grade features. Recently, I developed **[Ezfo]**, a feature-rich personal finance tracker equipped with offline-first capabilities, complex localizations, and seamless In-App Purchases.
+I don't just build screens; I focus on software craftsmanship—implementing **Clean Architecture**, robust state management, and production-grade features. Recently, I developed **[EZFO]**, a feature-rich personal finance tracker equipped with offline-first caching, complex localizations, and seamless In-App Purchases.
 
 **🚀 Technical Arsenal & Focus Areas:**
 - **Architecture & State:** Clean Architecture, BLoC/Cubit, Dependency Injection (GetIt), GoRouter.
-- **Backend & Data:** Firebase (Firestore, Auth), SQLite, Cache-first/Offline-first Strategies.
-- **Production & Monetization:** RevenueCat (Paywalls & Subscriptions), Google AdMob, Google Play Console Deployment (Flavors).
+- **Backend & Data:** Firebase (Firestore, Auth), Secure Local Storage, Cache-first Data Strategies.
+- **Production & Monetization:** RevenueCat (Paywalls & Subscriptions), Google AdMob, Google Play Console Deployment (Flutter Flavors).
+- **UI/UX Engineering:** Atomic Design Pattern.
 
 **🌱 What I'm Currently Exploring:**
 Deepening my knowledge in **Unit & Integration Testing** in Flutter, setting up CI/CD pipelines (like Shorebird for OTA updates), and continuously refining code testability and architecture.
+
+📫 **Let's Connect:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qyupaww/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qyupaww@gmail.com or faisalra639@gmail.com)
