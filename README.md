@@ -24,9 +24,8 @@ and ad monetization via AdMob.
 
 ### Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qyupaww&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qyupaww&hide_border=true" alt="Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qyupaww&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qyupaww&hide_border=true" height="150" alt="Streak" />
 </p>
