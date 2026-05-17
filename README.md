@@ -25,7 +25,7 @@ and ad monetization via AdMob.
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyupaww&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats-git-master-grubersjoes.vercel.app/api/top-langs/?username=qyupaww&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=qyupaww&theme=tokyonight&hide_border=true" height="150"/>
 </p>
