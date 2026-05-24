@@ -4,7 +4,7 @@
 
 **Mobile Developer** specializing in Flutter
 
-📫 [qyupaww@gmail.com](mailto:faisalra639@gmail.com) &nbsp;·&nbsp;
+📫 [faisalra639@gmail.com](mailto:faisalra639@gmail.com) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/qyupaww/) &nbsp;·&nbsp;
 [Portfolio](https://qyupaww.github.io)
 
