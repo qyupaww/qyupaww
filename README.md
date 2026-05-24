@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Faisal Rahman
 
-**Mobile Developer** specializing in Flutter — building scalable apps with Clean Architecture, BLoC/Cubit, and production-ready release pipelines.
+**Mobile Developer** specializing in Flutter
 
-📫 [qyupaww@gmail.com](mailto:qyupaww@gmail.com) &nbsp;·&nbsp;
+📫 [qyupaww@gmail.com](mailto:faisalra639@gmail.com) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/qyupaww/) &nbsp;·&nbsp;
 [Portfolio](https://qyupaww.github.io)
 
@@ -14,7 +14,7 @@
 
 ### About
 
-I build mobile apps using Flutter with a focus on clean, maintainable code. My stack includes **Clean Architecture**, **Atomic Design**, **GetIt** for dependency injection, and **BLoC/Cubit** for state management. I've shipped apps end-to-end to the Google Play Store — including in-app purchases via RevenueCat and ad monetization via AdMob.
+I build mobile apps using Flutter. I keep things clean: Clean Architecture, Atomic Design, BLoC/Cubit, and GetIt. Not because it's trendy, but because messy code is a pain to maintain and I've seen what happens when you skip the fundamentals. And the more I build, the more I realize there's always something new to learn — forever a hungry learner. I never settle with my current skills; I'm always evolving.
 
 ---
 
