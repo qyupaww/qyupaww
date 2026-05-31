@@ -14,7 +14,7 @@
 
 ### About
 
-I build mobile apps using Flutter, I keep things clean: Clean Architecture, Atomic Design, State Management with BLoC & Cubit, and Dependency Injection with GetIt. Not because it's trendy, but because messy code is a pain to maintain and I've seen what happens when you skip the fundamentals. And the more I build, the more I realize there's always something new to learn — forever a hungry learner. I never settle with my current skills; I'm always evolving.
+I build mobile apps using Flutter, I keep things clean: Clean Architecture, Atomic Design, State Management with BLoC & Cubit, and Dependency Injection with GetIt. Not because it's trendy, but because messy code is a pain to maintain and I've seen what happens when you skip the fundamentals. And the more I build, the more I realize there's always something new to learn — forever a hungry learner. I never settle with my current skills, I'm always evolving.
 
 ---
 
