@@ -45,7 +45,6 @@ The more I build, the more I realize there's always something new to learn — f
 ![Play Console](https://img.shields.io/badge/Play_Console-1D9E75?style=flat&logo=google-play&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Morpheme Lite](https://img.shields.io/badge/Morpheme_Lite-555?style=flat)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F84D2A?style=flat)
 ![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -59,6 +58,7 @@ The more I build, the more I realize there's always something new to learn — f
 ![Localization](https://img.shields.io/badge/Localization-555?style=flat)
 ![Local Storage](https://img.shields.io/badge/Local_Storage-555?style=flat)
 ![Shorebird](https://img.shields.io/badge/Shorebird-555?style=flat)
+![Morpheme Lite](https://img.shields.io/badge/Morpheme_Lite-555?style=flat)
 
 
 **Currently Learning**
