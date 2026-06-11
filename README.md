@@ -41,6 +41,7 @@ The more I build, the more I realize there's always something new to learn — f
 
 **Familiar With**
 
+![Android Studio](https://img.shields.io/badge/AndroidStudio-1D9E75?style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![GoRouter](https://img.shields.io/badge/GoRouter-555?style=flat)
