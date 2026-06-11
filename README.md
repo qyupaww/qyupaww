@@ -42,23 +42,24 @@ The more I build, the more I realize there's always something new to learn — f
 **Familiar With**
 
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-1D9E75?style=flat)
+![Play Console](https://img.shields.io/badge/Play_Console-1D9E75?style=flat&logo=google-play&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GoRouter](https://img.shields.io/badge/GoRouter-555?style=flat)
+![Morpheme Lite](https://img.shields.io/badge/Morpheme_Lite-555?style=flat)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F84D2A?style=flat)
 ![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat&logo=google&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GoRouter](https://img.shields.io/badge/GoRouter-555?style=flat)
 ![REST API](https://img.shields.io/badge/REST_API-555?style=flat)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-555?style=flat)
 ![Flavors](https://img.shields.io/badge/Flavors-555?style=flat)
 ![Localization](https://img.shields.io/badge/Localization-555?style=flat)
 ![Local Storage](https://img.shields.io/badge/Local_Storage-555?style=flat)
 ![Shorebird](https://img.shields.io/badge/Shorebird-555?style=flat)
-![Play Console](https://img.shields.io/badge/Play_Console-414141?style=flat&logo=google-play&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Morpheme Lite](https://img.shields.io/badge/Morpheme_Lite-555?style=flat)
+
 
 **Currently Learning**
 
